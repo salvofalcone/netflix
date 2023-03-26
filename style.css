@@ -115,3 +115,45 @@ h4{
     margin-left: 40px;
     margin-right: 40px;
 }
+
+.faq{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1b64c3;
+    height: auto;
+}
+
+/* footer */
+
+footer{
+    margin: 100px 200px;
+}
+
+.top{
+    color: rgb(179, 176, 176);
+    font-weight: 200;
+}
+
+.top a{
+    color: rgb(179, 176, 176);
+    font-weight: 200;
+
+}
+.center{
+    display: flex;
+    justify-content: space-between;
+    line-height: 30px;
+    padding-top: 60px;
+}
+
+.center a{
+    color: rgb(179, 176, 176);
+    font-weight: 200;
+}
+
+.bottom p {
+    padding-top: 20px;
+    color: rgb(179, 176, 176);
+    font-weight: 100;
+}
