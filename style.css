@@ -56,7 +56,6 @@ h4{
 .section1{
     height: 700px;
     background-image: url("img/banner1.png");
-    /* inserire effetto ombra */
     color: white;
 }
 
@@ -120,8 +119,8 @@ h4{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #1b64c3;
     height: auto;
+    color: #fff;
 }
 
 /* footer */
